@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 adding some comments from github website
 
 adding some comments to githup website
+
+update the readme file in the local machine
